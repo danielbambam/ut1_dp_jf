@@ -7,7 +7,7 @@ Trabajo ut1 a2 Daniel Ponce y Jose Fernando
 ### 1.¿Qué es Markdown y para qué se utiliza?
 
 
-[Respuesta 1](Respuestas/Respuesta1.md)
+[Respuesta 1](/ut1%20a2/documentos/Respuestas/Respuesta1.md)
 
 ### 2.¿Cuáles son las características principales de Markdown que lo hacen diferente de otros lenguajes de marcas de presentación?
 
@@ -19,9 +19,9 @@ Markdown es ampliamente utilizado en diversas aplicaciones y plataformas debido 
 
 ### 4.¿Cuáles son las etiquetas o símbolos más comunes que se utilizan en Markdown para dar formato a un texto?
 
-![Logo de Markdown](/imagenes/markdown-logo.jpeg)
+![Logo de Markdown](/ut1%20a2/imagenes/markdown-logo.jpeg)
 
-[Respuesta 4](Respuestas/Respuesta4.md)
+[Respuesta 4](/ut1%20a2/documentos/Respuestas/Respuesta4.md)
 
 ### 5.¿Cómo se puede visualizar y convertir un archivo escrito en Markdown a otros formatos, como HTML o PDF?
 
