@@ -25,4 +25,4 @@ En Markdown, se utilizan varias etiquetas y símbolos para dar formato al texto 
 #### Citas
 Para poner una cita se ha de poner "<>" con un texto intermedio que no se apreciara en el trabao final.
 
-![Imagen2](/ut1%20a2/imagenes/markdown.jpg)
+![Imagen2](/ut1a2/imagenes/markdown.jpg)
